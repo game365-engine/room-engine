@@ -1,0 +1,9 @@
+services:
+  discord-party-turn-demo:
+    build:
+      context: ../..
+      dockerfile: examples/discord-party-turn-demo/Dockerfile
+    ports:
+      - "${PORT:-8081}:8081"
+    environment:
+      PORT: 8081

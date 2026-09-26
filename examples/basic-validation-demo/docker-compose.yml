@@ -1,0 +1,9 @@
+services:
+  basic-validation-demo:
+    build:
+      context: ../..
+      dockerfile: examples/basic-validation-demo/Dockerfile
+    ports:
+      - "${PORT:-8080}:8080"
+    environment:
+      PORT: 8080
