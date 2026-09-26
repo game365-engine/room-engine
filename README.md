@@ -65,7 +65,7 @@ The following capabilities have been implemented and validated in a private repo
 - State persistence adapter based on Redis, supporting restarts and scaling without losing state.
 - Discord Activity reference example and client SDK.
 
-If you need these capabilities, please contact the author through [Issues](link) / [email](link).
+If you need these capabilities, please contact the author through [zhangwarren90@gmail.com].
 
 ## Verification
 

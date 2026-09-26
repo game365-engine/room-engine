@@ -66,7 +66,7 @@ mvn -f examples/basic-validation-demo/pom.xml spring-boot:run
 - 状态持久化适配器（Redis，支持服务重启/扩容不丢状态）
 - Discord Activity 参考示例 + 客户端 SDK
 
-如有需要，请通过 [Issues](链接) / [邮箱](链接) 联系作者获取。
+如有需要，请通过 [zhangwarren90@gmail.com] 联系作者获取。
 
 
 ## 验证
